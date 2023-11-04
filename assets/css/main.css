@@ -1018,6 +1018,10 @@ h6 {
   margin-top: 80px;
 }
 
+#pricing_begin {
+  margin-top: 0px;
+}
+
 .pricing .pricing-item {
   border-bottom: 1px dashed #474a4d;
   width: 100%;
