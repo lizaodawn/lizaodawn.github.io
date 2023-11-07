@@ -949,6 +949,7 @@ h6 {
   transition: all ease-in-out 0.4s;
   background: var(--color-secondary);
   height: 100%;
+  width: 100%;
   overflow: hidden;
   z-index: 1;
 }
