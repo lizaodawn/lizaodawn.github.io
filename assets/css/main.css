@@ -1185,6 +1185,8 @@ h6 {
   background-size: cover;
   position: relative;
   padding: 140px 0 60px 0;
+  margin-top: 8%;
+  margin-bottom: 12%;
 }
 
 .hero h2 {
